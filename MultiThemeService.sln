@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThemeService.Server", "MultiThemeService.Server\MultiThemeService.Server.csproj", "{0C890799-DC01-40D2-A00D-DB1615A5B68A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "multithemeservice.client", "multithemeservice.client\multithemeservice.client.esproj", "{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C890799-DC01-40D2-A00D-DB1615A5B68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C890799-DC01-40D2-A00D-DB1615A5B68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C890799-DC01-40D2-A00D-DB1615A5B68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C890799-DC01-40D2-A00D-DB1615A5B68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928EDB2F-69AC-442A-AFFE-3EBA3939E0C2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0489C69C-A020-4A9C-AF1A-E5C8E7416EF7}
+	EndGlobalSection
+EndGlobal
